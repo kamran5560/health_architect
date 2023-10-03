@@ -8,7 +8,7 @@ class ImageAssets {
   static const String girl_2page = 'images/girl_2page.jpeg';
   static const String fitnes = 'images/fitnes.jpeg';
   static const String bag = 'images/bag.jpeg';
-  static const String shoulder = 'images/1.jpeg';
+  static const String shoulder = 'images/shoulder.png';
   static const String L1 = 'images/1.jpeg';
   static const String L2 = 'images/2.jpeg';
   static const String L3 = 'images/3.jpeg';
@@ -18,5 +18,6 @@ class ImageAssets {
   static const String check = 'images/check.jpeg';
   static const String girle3 = 'images/girle3.jpeg';
   static const String girle4 = 'images/girle4.jpeg';
+  static const String pencil = 'images/pencil.png';
 
 }
